@@ -1,2 +1,2 @@
-# homework
-javascript 代码练习
+# practice
+ 代码练习
